@@ -1,0 +1,17 @@
+{
+  "name": "src",
+  "version": "0.0.0",
+  "description": "",
+  "main": "visualization.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha": "~1.19.0"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  }
+}
